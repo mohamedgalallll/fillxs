@@ -1,0 +1,34 @@
+body {
+    direction: rtl !important;
+}
+.pull-left {
+    text-align: left !important;
+}
+.myads {
+    padding: 9px 9px 6px 0px;
+}
+.nav-tabs .nav-link {
+     margin-right: 12px;
+ }
+.form-content {
+    padding-right: 30px;
+}
+
+.mycolumn {
+    border-right: 1px solid #ccc;
+    border-left: none;
+}
+.mycolumn:first-child {
+    border-right: none;
+}
+
+.navbar-nav .nav-link {
+    padding-left: 8px !important;
+}
+
+
+
+
+
+
+
